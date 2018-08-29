@@ -1,4 +1,4 @@
-package com.pluralsight.loginDao;
+package com.orlando.loginDao;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
