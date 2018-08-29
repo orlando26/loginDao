@@ -30,8 +30,8 @@
 		
 		<property name="hibernate.id.new_generator_mappings">false</property>
 
-		<mapping class="com.orlando.model.Person" />
-		<mapping class="com.orlando.model.State" /> 
-		<mapping class="com.orlando.model.City" />
+		<mapping class="com.orlando.loginDao.bo.Person" />
+		<mapping class="com.orlando.loginDao.bo.State" /> 
+		<mapping class="com.orlando.loginDao.bo.City" />
 	</session-factory>
 </hibernate-configuration>
