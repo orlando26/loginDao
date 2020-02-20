@@ -5,9 +5,9 @@
 <hibernate-configuration>
 	<session-factory>
 		<property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
-		<property name="hibernate.connection.password">medcongress</property>
-		<property name="hibernate.connection.url">jdbc:mysql://35.226.45.38:3306/login?useSSL=false</property>
-		<property name="hibernate.connection.username">root</property>
+		<property name="hibernate.connection.password">password</property>
+		<property name="hibernate.connection.url">jdbc:mysql://javaframeorks-db.cv0ojbio2vk5.us-east-1.rds.amazonaws.com:3306/login?useSSL=false</property>
+		<property name="hibernate.connection.username">tecgurus</property>
 		<property name="hibernate.default_schema">login</property>
 		<property name="hibernate.dialect">org.hibernate.dialect.MySQL55Dialect</property>
 
